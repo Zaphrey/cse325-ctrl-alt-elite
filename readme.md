@@ -1,4 +1,4 @@
-Team name: CTRL-ALT-DELETE
+Team name: CTRL-ALT-ELITE
 Team members:
 Deana Briggs
 Cam Woodward
